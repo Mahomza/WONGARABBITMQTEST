@@ -17,6 +17,7 @@ namespace Publiser
         static void Main(string[] args)
         {
 
+
             try
             {
                 var _Factory = new ConnectionFactory() { HostName = "localhost" };
